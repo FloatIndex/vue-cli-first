@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <TitleComponent></TitleComponent>
-    <JumboComponent></JumboComponent>
+    <TitleComponent/>
+    <JumboComponent/>
   </div>
 </template>
 
